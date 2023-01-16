@@ -1,0 +1,5 @@
+export const LOADING: string = 'WEATHER/LOADING'
+export const SUCCESS: string = 'WEATHER/SUCCESS'
+export const ERROR: string = 'WEATHER/ERROR'
+export const GETDATA: string = 'WEATHER/GETDATA'
+export const SEARCHED_DATA: string = 'WEATHER/SEARCHED_DATA'
